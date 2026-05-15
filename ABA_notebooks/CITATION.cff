@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "CRAB Genomics Workflow Notebooks"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Guntgatti
+    given-names: Nidhi
+date-released: 2026
+version: 1.0
+message: "If you use this repository, please cite it using the DOI."
